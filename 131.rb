@@ -18,7 +18,8 @@
   as p is a prime, k = a*l^2, p = 3al^2 + 3al + a = a(3l^2 + 3l + 1)
   so, a = 1 p = 3l^2 + 3l + 1
 
-  Based on this fact, we can find all primes satisfing 3l^2 +3l + 1 under one million including p = 7.
+  Based on this fact, we can find all primes satisfing 3l^2 +3l + 1 under one million including p = 7
+  Took 0.004sec
 =end
 
 require 'prime'
@@ -36,4 +37,6 @@ class Problem131
   end
 end
 
+start = Time.now
 p Problem131.find_ans
+p Time.now - start
