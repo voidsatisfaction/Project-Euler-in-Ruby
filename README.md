@@ -5,8 +5,8 @@ Sharing my own solutions of Project Euler problems.
 - Korean : 텅 빈 충만
 - English : voidSatisfaction
 
-## Number of solved problems (2016. 9. 19.)
-- Korean : 109(Ruby)
+## Number of solved problems (2017. 1. 11)
+- Korean : 110(Ruby)
 - Enlgish : 57(Scheme)
 
 ## Language
